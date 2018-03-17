@@ -103,4 +103,5 @@ ENV/
 # mac
 .DS_Store
 */Give Up/*
-*/out
+*/out*
+*/in*
